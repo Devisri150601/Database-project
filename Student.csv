@@ -1,0 +1,8 @@
+StudentID,FirstName,LastName,Course,Professor,ProfessorEmail,CourseStart,CourseEnd,Classroom
+101,John,Doe,Math101,Dr.Smith,smith@mst.edu,1/1/23,2/1/23,M1
+101,John,Doe,CS101,Dr.Jones,jones@mst.edu,1/1/23,2/1/23,C1
+102,Jane,Roe,Math101,Dr.Smith,smith@mst.edu,1/1/23,2/1/23,M1
+102,Jane,Roe,CS101,Dr.Smith,smith@mst.edu,6/15/23,7/20/23,B1
+103,Arindam,Khanda,CS101,Dr.Jones,jones@mst.edu,2/1/23,6/15/23,C1
+104,Jose,Franklin,Bio101,Dr.Watson,watson@mst.edu,2/1/23,6/15/23,C1
+105,Ada,Lovelace,CS101,Dr.Jones,jones@mst.edu,6/15/23,7/20/23,B1
